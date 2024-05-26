@@ -1,0 +1,20 @@
+UNIT TESTING ->
+
+Testing specific units of code independently.
+
+Testing set of units -> integration testing.
+
+Advantages of unit testing ->
+
+-> Find bugs early
+-> Easy to fix bugs
+-> Reduce the cost and time
+
+
+How to perform unit Test ->
+
+-> Junit -> most popular framework for unit testing 
+-> Junit-4
+-> Junit-5
+-> Then what is Mockito ( Mocking framework)
+   (Mock fake repo or object)
