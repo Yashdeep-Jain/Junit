@@ -18,3 +18,12 @@ How to perform unit Test ->
 -> Junit-5
 -> Then what is Mockito ( Mocking framework)
    (Mock fake repo or object)
+
+
+
+
+JUNIT 5 composed of several different modules ->
+
+-> Junit platform (TestEngine API, Responsible for launching testing framework on JVM)
+-> Junit Jupiter (New annotations, programming and extension model for writing tests, TestEngine implementation)
+-> Junit Vintage (Provider support for Junit 3,4 backend compatibility)
